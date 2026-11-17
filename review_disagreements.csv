@@ -1,0 +1,399 @@
+Document ID,final_stance,tier,agreement,gemma_stance,gemma_conf,qwen_stance,qwen_conf,stance_source,has_attachment,duplicate_count,gemma_p_pro,gemma_p_con,gemma_p_unclear,label_mass,First Name,Last Name,Organization Name,State/Province,Posted Date,Comment,attachment_chars,qwen_p_pro,qwen_p_con,qwen_p_unclear
+ICEB-2026-0100-0571,REVIEW,flip,disagree,CON,1.0,PRO,0.9847,comment_text,False,1,0.0,1.0,0.0,1.0,,,,,2026-10-08T04:00Z,"The international students who were capable of paying $70000 as an application fee for OPT, would not come to USA. They might find a better place for higher education. I would like to request the current US government to announce that they no longer want international students. I wish the US universities would run better without international students, particularly at the graduate levels.",,0.9847,0.0124,0.0029
+ICEB-2026-0100-2973,REVIEW,flip,disagree,CON,1.0,PRO,0.8405,comment_text,False,1,0.0,1.0,0.0,1.0,,,,,2026-10-20T04:00Z,Do you want workers in the United States? Do you want the economy to be strong? Get rid of this. This is -not- how you maintain a robust country.,,0.8405,0.1137,0.0458
+ICEB-2026-0100-1387,REVIEW,flip,disagree,CON,0.9985,PRO,0.8996,comment_text,False,1,0.0012,0.9985,0.0003,1.0016,,,,,2026-10-13T04:00Z,"I like this idea in general, but there needs to be language which bars simply passing the cost of these fees along to others. 
+
+College is already expensive, and young adults today graduate with college loans numbering a sum comparable to what used to be a down payment on a house. If the universities institute new fees or raise their rates in order to recoup the costs this regulation proposes, then the the benefits of a college education will become ever more out of reach for an increasing number of young Americans.
+
+In addition to the rule proposed, I would like to see language that explicitly forbids the institution from instituting new fees, raising the rates on tuition or other existing fees, or generally take any other action to recoup these fees, perhaps with one exception -- the fee, or a portion thereof may be passed along to the foreign student. ",,0.8996,0.0837,0.0168
+ICEB-2026-0100-5554,REVIEW,flip,disagree,CON,0.9984,PRO,0.7768,comment_text,False,1,0.001,0.9984,0.0006,1.0017,,,,,2026-11-04T05:00Z,Not acceptable at all. What happens to our industries and workers if there’re no more cheap positions for foreigners at all!,,0.7768,0.1733,0.0499
+ICEB-2026-0100-7264,REVIEW,flip,disagree,CON,0.9947,PRO,0.7174,comment_text,False,1,0.0,0.9947,0.0053,1.0053,,,,,2026-11-09T05:00Z,"In Docket ICEB-2026-0100, proposed 8 CFR 214.13(i)(3) applies the fee to DSO recommendations dated on or after a date 60 days after publication of the final rule, and Section VI says institutions will not be required to pay it for OPT already approved or recommended before that date. That prospective design should be preserved in the final rule, and item 3 seeks a related adjustment for STEM extensions that follow pre-rule OPT.
+
+1. Authority for the charge (Sections III.A, IV.C). Section IV.C describes the fee provisions as promulgated pursuant to INA 214(a), 8 U.S.C. 1184, says ICE would not retain the money because ""the statute does not provide legal authority for ICE to retain the funds collected,"" and says the fees go to the Treasury under 31 U.S.C. 3302. National Cable Television Ass'n v. United States, 415 U.S. 336, 340-42 (1974), describes heavy assessments meant to discourage an activity as in the nature of taxes traditionally levied by Congress, and Skinner v. Mid-America Pipeline Co., 490 U.S. 212 (1989), reads that decision and its companion to require a clear congressional indication before an agency recovers administrative costs not inuring directly to regulated parties' benefit by imposing financial burdens on them. Both bear on review under 5 U.S.C. 706(2)(C). Fix: Explain in Section III.A how the ""time and conditions"" text of INA 214(a), on which it relies, authorizes a mandatory payment of $70,000 or $30,000 to the Treasury.
+
+2. Basis for the amounts (Sections IV.C, VII.A.6). Section IV.C compares the initial fee to the H-1B fee (""selected a fee amount for OPT comparable to the fee for H-1B visas"") and the fees generally to ""the educational costs"" students incur for one or two years of study. Section VII.A.6 states the expected effect as a belief that the rule ""would likely result in more scrutiny"" of OPT recommendations. Fix: Docket the analysis that derives each amount and links it to an expected reduction in fraudulent OPT recommendations.
+
+3. Transition fee for STEM extensions (proposed 8 CFR 214.13(i)(2)-(3); Sections V.A, VII.B.4). Section V.A classes a STEM OPT extension as subsequent OPT, and paragraph (i)(2) sets the $30,000 fee where the student ""has previously participated in OPT and paid the initial OPT fee of $70,000."" Paragraph (i)(3) says schools ""must pay the fee of $70,000 for each alien who receives a DSO recommendation for OPT"" dated on or after the effective date, and Section VII.B.4 states: ""If an OPT fee has not previously been paid for an F-1 nonimmigrant, they are subject to the initial fee of $70,000."" A STEM extension recommended after that date for a student whose initial OPT preceded it therefore draws $70,000, the same fee as a first recommendation. Fix: Add to paragraph (i)(3) a sentence providing that a recommendation for a STEM OPT extension for such a student is subject to the $30,000 fee.
+
+4. Small-entity alternatives (Sections VII.B.4, VII.B.6). Of 1,389 small institutions, DHS reports that in the transition year 841 would experience impacts above 1 percent of estimated revenue and 116 above 20 percent. The alternatives discussed are no action, a full small-institution exemption (rejected because, with 56 percent of regulated institutions small, fraud could continue), a repeated initial fee, and expanded site visits or reporting. 5 U.S.C. 603(c)(1) names differing compliance requirements or timetables for small entities. Fix: Add to the final regulatory flexibility analysis a quantified alternative capping a small institution's annual OPT fees at 5 percent of its estimated annual revenue, with the effect on projected collections.
+
+5. Refunds (proposed 8 CFR 214.13(i)(1)-(2); Section V.A). Both paragraphs say SEVP ""may exercise discretion to grant a refund request from a school on a case-by-case basis."" The school pays before the student may apply to USCIS, and Section IV.C says the refund provisions let schools ""seek a refund if the student does not receive"" an employment authorization document. A school meeting that condition still depends on discretion. Fix: In both paragraphs, replace ""may exercise discretion to grant"" with a statement that SEVP will grant the request, and delete the case-by-case qualifier.
+
+6. Comment period (DATES; Sections VI, VII.A). OMB designated the proposed rule economically significant, and Section VI refers to a 30-day public comment period. The notice sets 60 days, to December 7, 2026, for information collection comments, and E.O. 12866 section 6(a)(1) provides that a comment period should in most cases be not less than 60 days. Fix: Publish a notice extending the comment period on the whole proposed rule to December 7, 2026.
+
+None of this rejects the aim of reducing OPT fraud.",,0.7174,0.2329,0.0497
+ICEB-2026-0100-4706,REVIEW,flip,disagree,PRO,0.9935,CON,0.9382,comment_text,False,1,0.9935,0.0052,0.0013,1.0066,,,,,2026-10-30T04:00Z,"I am a US scientist and on the one hand I disagree with the increased fees because the US exists as a beacon of collecting the brightest minds in the world, training them, and collecting them as a workforce. Increasing the fees would push the foreign postdocs to leave once they are trained at a higher level. This means that the US will train these postdocs and then send them home. At the University of Pennsylvania for example, about 60% of the postdocs are foreign workers.
+
+On the other hand, this fee increase is intended to protect jobs of the US population. All other countries already do this. I trained as a PhD in Canada. Nearly ever year I was there I had to pay money to extend my ability to be there. Canada was extremely strict on when I would leave the country and they did not want me to stay. Only after COVID did they extend some special exception for STEM educated people, and by then I was done trying to stay. I came back to the US to do a postdoc. I get better, higher paying jobs here in the US anyway, and I had better options for postdoctoral training. Canada can deal with their loss because they did not want me to be there, and they made little effort to keep me. Do not confuse my intention though - if the US does not protect my career after I finish this postdoc, I WILL make an effort to leave to a country where I am wanted and I will again pay the fees to work in a country that wants my expertise.
+
+After my experience, my perspective has changed. I feel that protecting the US government interests from a very upset middle and lower class population from rising up about the poor options for education and employment comes down to forcing the US institutions for higher education to ensure opportunities for them. The US institutions of higher education do not have an Americans First priority for PhDs or postdoctoral workers. Rather than protect the options for foreign postdocs, we should be protecting options for US PhD students to obtain postdoctoral positions and promoting employment for US citizens. Other countries do this. We should do this too for our own citizens. I support the US to make the right decision to balance supporting citizens' opportunities and yet maintaining a strong scientific workforce. This indeed has to be an intelligent balance, and I hope consideration for the costs to a proposal like this are weighed. The fee is incredibly high. It is above the salary of a STEM postdoc. Most STEM postdocs will not be able to afford this. The US will indeed lose on having the foreign STEM workforce stay.",,0.0529,0.9382,0.0089
+ICEB-2026-0100-1761,REVIEW,flip,disagree,CON,0.9897,PRO,0.9234,comment_text,False,1,0.0005,0.9897,0.0098,1.0105,,,,,2026-10-13T04:00Z,"I am a US citizen in favor of this proposal. Our immigrant community is part of the backbone of this country. They bring culture, innovation, and passion, and we are better for it. Allowing them to work here gives us the benefit of their gifts while offering them the opportunities of this country. ",,0.9234,0.059,0.0175
+ICEB-2026-0100-0668,REVIEW,flip,disagree,PRO,0.9893,CON,0.6667,comment_text,False,1,0.9893,0.0067,0.0041,1.0109,,,,,2026-10-08T04:00Z,"What people on ground saying -
+
+This opt fees rule is nothing more than Halloween candy. It will not solve anything as its by design to give open hand to cheat international students and trade them with US companies by allowing them to collect money from students or businesses, either way.
+
+This is most incompetent administration which cares only about their own profit. Todays task force press conference was just photo opportunity for those ladies. JD must start preparing for news reader job as he himself ended his 2028 presidential run by willful misguiding US people. below article proved that.
+
+https://www.livemint.com/companies/us-suspends-perm-labour-certifications-for-indian-it-but-is-it-affected-11791477284612.html
+
+This is fact. Cognizant share price jump by 8 pct. after task force press conference for a reason.  What JD and his ladies gang did, they made cheating official. They told those cheats that they can suck last drop of blood from US citizens, hard working genuine h1bs and offshore folks and we will make sure its come out as just big noise , nothing more than that. US people are not stupid. Above article clearly confirmed that today's PERM pause impact only few hundred LCA. Reality and matter of fact is , those cheats already stopped PERM process due to recent layoffs. This is just 0.0002 pct. of total LCA filed.
+
+Keith who just rewarded as DOL secretory is behind these mass abuse. He modified worker classification rule against court approved rules to benefit same cheats he is saying he gona punish with fig leaf type penalties. what a garbage. Those independent contractor and joint employer rules which Keith changed enabled creation of endless spider web of LLCs' by temp work visa folks who just trade US citizens and game system. This is only possible because of Keith and he is now labor secretory. What a shame.
+
+Cognizant and many others expecting that it will be total moratorium today on h1b and if that happened then their shares dropped by 20 to 50 pct not up by 10 pct. Keith must end all LCA not just PERM LCA. LAW clearly says, H1b must not negatively impact wage or working condition of US citizens. Keith has full and complete authority to revoke each and every LCA , He has complete authority to pause all new LCA approval until h1b program is fully scraped. Keith is fooling US people and must go tonight if not tomorrow morning. All those task force ladies except Andrew and Ferguson, Including JD must be fired tonight.
+
+People are saying NASSCON was constantly in touch with those ladies in last few weeks and even in touch after todays task force conference which proved who is involved in fooling around. What a shame.",,0.3149,0.6667,0.0184
+ICEB-2026-0100-0399,REVIEW,flip,disagree,CON,0.9889,PRO,0.6635,comment_text,False,1,0.0059,0.9889,0.0053,1.0113,,,,,2026-10-08T04:00Z,Shut the entire thing down NOW!,,0.6635,0.3134,0.0231
+ICEB-2026-0100-0055,REVIEW,flip,disagree,CON,0.9768,PRO,0.9977,comment_text,False,1,0.023,0.9768,0.0002,1.0239,,,,,2026-10-08T04:00Z,This should end! It only serves to depress job market for native born graduates! ,,0.9977,0.0022,0.0002
+ICEB-2026-0100-1683,REVIEW,flip,disagree,CON,0.97,PRO,0.8479,comment_text,False,1,0.0293,0.97,0.0007,1.0312,,,,,2026-10-13T04:00Z,The proposed fees is too high and will likely be struck down by courts. Why not just eliminate the program altogether.,,0.8479,0.1147,0.0373
+ICEB-2026-0100-7860,REVIEW,flip,disagree,CON,0.9321,PRO,0.3695,comment+attachment,True,1,0.0001,0.9321,0.0678,0.9469,,,,,2026-11-09T05:00Z,"The United States-Indonesia Society ""USINDO""), an NGO registered in DC to promote relations and operational programs between the United States and Indonesia, is pleased to submit its response to DHS's notice of October 7, 2026, proposing new rules for the OPT program, and a description of USINDO's proposed small program for the betterment of skills needed by the U.S. and Indonesian high-tech workforces to increase high-tech competitiveness.    ",20953.0,0.3695,0.3695,0.2609
+ICEB-2026-0100-0251,REVIEW,flip,disagree,CON,0.9141,PRO,0.7887,comment_text,False,1,0.0455,0.9141,0.0403,0.9654,,,,,2026-10-08T04:00Z,"Re: DHS Docket ICEB-2026-0100, Optional Practical Training Fees
+
+I support reforming the OPT program to protect American workers, strengthen accountability, and ensure employers are not using immigration programs primarily to reduce labor costs.
+
+However, I strongly disagree with the proposal to make universities responsible for paying the $70,000 initial OPT fee and $30,000 subsequent fee.
+
+Employers, not universities, should be responsible for these fees.
+
+I have spent more than two decades building businesses, hiring thousands of employees, and working in the technology workforce. From that experience, I believe the financial responsibility should rest with the entity making the employment decision and receiving the economic benefit.
+
+Universities educate students. Employers hire workers.
+
+Requiring universities to pay creates several problems:
+
+1. It removes accountability from employers. Companies making hiring decisions should bear the associated costs, rather than transferring those costs to educational institutions.
+2. It creates opportunities to shift costs to students. Universities may pass the fees along through tuition or other charges, potentially affecting students who never participate in OPT.
+3. It weakens the intended labor-market incentive. If the policy is designed to discourage employers from using OPT as a source of lower-cost labor, employers must face the actual financial consequences of their hiring decisions.
+4. It fails to address the competitive imbalance. OPT employment generally benefits from an exemption from Social Security and Medicare taxes for qualifying F-1 nonresident alien workers. That can create a cost advantage compared with hiring American workers. The proposed fee structure should directly address employer incentives.
+
+I urge DHS to revise the proposed rule to:
+
+* Make the employer responsible for paying applicable OPT fees when an employment relationship is established.
+* Prohibit employers from recovering those fees through wage deductions, reimbursement agreements, or other arrangements with OPT workers.
+* Require employers to certify compliance with applicable wage, labor, and immigration requirements.
+* Establish meaningful penalties for employers attempting to circumvent these requirements.
+
+For OPT authorization issued before an employer has been identified, DHS should develop a mechanism that makes the fee payable by the employer when employment begins, rather than imposing the obligation on the university.
+
+If the goal is to protect American workers and eliminate financial incentives to favor foreign labor, the policy must directly address the employers making those hiring decisions.
+
+I respectfully urge DHS to revise the proposed rule accordingly.",,0.7887,0.176,0.0353
+ICEB-2026-0100-0459,REVIEW,flip,disagree,CON,0.8888,PRO,0.5656,comment_text,False,1,0.0047,0.8888,0.1065,0.993,,,,,2026-10-08T04:00Z,"99% of these people are our Enemies! and they will continue to be a burden on us while our people suffer. We can hardly take care of our own!! If the leaders of our Country wants to lead us in the name of other than God, let them leave now because there will be Holy consequences! DON'T PASS THIS BILL!!!",,0.5656,0.3889,0.0454
+ICEB-2026-0100-3239,REVIEW,flip,disagree,CON,0.8595,PRO,0.8948,comment_text,False,1,0.0084,0.8595,0.1321,1.0269,,,,,2026-10-22T04:00Z,"I am from Slavic Europe and this is more communistic than anything we had back home.
+Good job!",,0.8948,0.0505,0.0547
+ICEB-2026-0100-3238,REVIEW,flip,disagree,PRO,0.7815,CON,0.7684,comment_text (attachment had no extractable text),True,1,0.7815,0.1976,0.0209,0.9965,,,,,2026-10-22T04:00Z,"This is a very good law actually, I will just get an in internship in Europe and after finishing my PhD I will bring my expertise to a more advanced European Company. Most of my coworkers are thinking about the same too.
+America is indeed failing, it's time for Europe and Canada to rise.",,0.2202,0.7684,0.0115
+ICEB-2026-0100-0826,REVIEW,flip,disagree,PRO,0.7741,CON,0.7512,comment_text,False,1,0.7741,0.2218,0.0041,1.0061,,,,,2026-10-09T04:00Z,"If you wanna keep talents outside US, this is a nice idea.",,0.2152,0.7512,0.0336
+ICEB-2026-0100-0114,REVIEW,flip,disagree,CON,0.7543,PRO,0.7266,comment_text,False,1,0.0,0.7543,0.2457,1.0326,,,,,2026-10-08T04:00Z,"My Son a US Marine with a Masters Degree, had to search for almost a year to get a job!  This is EVIL",,0.7266,0.2082,0.0653
+ICEB-2026-0100-1783,REVIEW,flip,disagree,CON,0.6779,PRO,0.3987,comment_text,False,1,0.0015,0.6779,0.3206,1.0139,,,,,2026-10-13T04:00Z,"The opposition comes from three groups: international students, universities, and immigration lawyers. Everyone else supports the proposal.",,0.3987,0.2418,0.3595
+ICEB-2026-0100-6552,REVIEW,flip,disagree,CON,0.6467,PRO,0.7501,comment_text,False,1,0.0468,0.6467,0.3064,1.0628,,,,,2026-11-06T05:00Z,This is a great idea. Innovation will be able to continue.,,0.7501,0.1896,0.0602
+ICEB-2026-0100-3717,REVIEW,soft,disagree,PRO,0.9998,UNCLEAR,0.5108,comment_text,False,1,0.9998,0.0,0.0002,1.0002,,,,,2026-10-26T04:00Z,"Dear Sirs, 
+As a first generation immigrant from turn of the century migration from Western Europe , any and ALL action re immigration is of 
+immense importance to me.
+Therefore I STRONGLY SUPPORT ALL ACTIONS FROM IAP and encourage our government to pass these specific 
+H-1b and H-2b proposals.  The cheap labor , the deceptive, greedy corporate employers openly defy and disparage
+our American laborers …and MUST BE STOPPED.  
+Please support these reasonable curtailments.
+Marianne Overcash, Atlanta, Ga.
+",,0.3452,0.1439,0.5108
+ICEB-2026-0100-5282,REVIEW,soft,disagree,UNCLEAR,0.9985,PRO,0.5726,comment_text,False,1,0.0,0.0015,0.9985,1.0015,,,,,2026-11-03T05:00Z,I'm happy with the Trump adm. new policies. ,,0.5726,0.0285,0.3989
+ICEB-2026-0100-6977,REVIEW,soft,disagree,CON,0.9985,UNCLEAR,0.7502,comment_text,False,1,0.0,0.9985,0.0015,1.0015,,,,,2026-11-09T05:00Z,"How were the $70,000 and $30,000 amounts determined?
+Why not strengthen fraud detection, employer verification, site visits, and compliance reporting?
+What evidence establishes that OPT participation causes substantial displacement of American workers?
+",,0.0612,0.1886,0.7502
+ICEB-2026-0100-3856,REVIEW,soft,disagree,UNCLEAR,0.998,PRO,0.7607,comment_text,False,1,0.0,0.0019,0.998,1.002,,,,,2026-10-26T04:00Z,"I am international student myself. I am a christian and I follow Jesus. Jesus has asked us to render to Caesar the things that are Caesar's (Mathew 22:21) and to subject to the government authorities (Romans 13). I pray for America, I pray that it will be healed and cleansed in the Mighty Name of Jesus. So, I subdue to God's plan and if this rule will protect the country and its good intentions, I support it. If we have a lot of foreign students getting many previleges over citizens in my homecountry, I would be frustated too. When we applied initially to be a student in America, we agreed to complete the degree and do only that. In the perspective of a citizen of your country, I understand what you are trying to do. But I pray for God's Will and I pray for the officials in charge for wisdom and strength.  ",,0.7607,0.1029,0.1364
+ICEB-2026-0100-8667,REVIEW,soft,disagree,CON,0.9975,UNCLEAR,0.5176,comment_text,False,1,0.0,0.9975,0.0025,1.0025,,,,,2026-11-10T05:00Z,My peers deserve an equal opportunity to work in the field of speech-language pathology.,,0.2412,0.2412,0.5176
+ICEB-2026-0100-0482,REVIEW,soft,disagree,UNCLEAR,0.9954,PRO,0.7621,comment_text,False,1,0.0,0.0046,0.9954,1.0046,,,,,2026-10-08T04:00Z,"My son was formally in the Marine Corps, achieved a BS in Information Systems and can't find work!",,0.7621,0.0626,0.1754
+ICEB-2026-0100-1655,REVIEW,soft,disagree,UNCLEAR,0.9954,PRO,0.8676,comment_text,False,1,0.0,0.0046,0.9954,1.0046,,,,,2026-10-13T04:00Z,I have a family member in a chemistry program at a major university and cannot find an internship or research position. Why is this? He is an American student at an American university and he is a veteran. This is shameful! ,,0.8676,0.0914,0.041
+ICEB-2026-0100-2007,REVIEW,soft,disagree,PRO,0.9946,UNCLEAR,0.7216,comment_text,False,1,0.9946,0.0001,0.0052,1.0054,,,,,2026-10-13T04:00Z,"I’m sorry but I can’t help but think what this will do in the long game.  Go with quality and the ones that truly deserve it, and the talent that is going to elevate society! Not the ones that inherit it due to a technicality",,0.1813,0.0971,0.7216
+ICEB-2026-0100-5247,REVIEW,soft,disagree,UNCLEAR,0.9933,CON,0.5436,comment_text,False,1,0.0,0.0067,0.9933,1.0068,,,,,2026-11-03T05:00Z,"Secretary Markwayne Mullin,Immigrant Rights Are Human Rights. Abolish All Borders!Alexander Kuenyuaw6950vp@gmail.comWillimantic, Connecticut 06226",,0.3297,0.5436,0.1268
+ICEB-2026-0100-2754,REVIEW,soft,disagree,UNCLEAR,0.9914,CON,0.7114,comment_text,False,1,0.0,0.0086,0.9914,1.0087,,,,,2026-10-19T04:00Z,This proposal will go bankrupted together with the MAGA movement. Check after midterms. ,,0.1236,0.7114,0.165
+ICEB-2026-0100-5940,REVIEW,soft,disagree,UNCLEAR,0.9903,CON,0.7015,comment_text,False,1,0.0,0.0097,0.9903,1.0098,,,,,2026-11-04T05:00Z,No One's Illegal on Stolen Land! Immigrants make USA great again! Let immigrants in! ,,0.0652,0.7015,0.2333
+ICEB-2026-0100-8951,REVIEW,soft,disagree,UNCLEAR,0.9859,PRO,0.7368,comment_text,False,1,0.0,0.0141,0.9859,1.0143,,,,,2026-11-12T05:00Z,"Look at who applies for a single IT opening: American-born, Canadian-born, African-born, Asian-born, European-born. Everyone is trying. So why does the same opening keep flowing through the same channel every time? It isn’t that one group is smarter than the rest of the world. It’s the pipeline. Staffing and consulting firms are tied in with the vendors, the firm takes its cut — often around 20% of the bill rate — the vendor takes its cut, and in some cases the hiring manager is getting something on the side too. By the time a job is posted publicly, it’s already spoken for. Everyone else who applied never had a real shot. That isn’t a qualifications problem. That’s a hiring chain that’s been rigged.",,0.7368,0.113,0.1502
+ICEB-2026-0100-8625,REVIEW,soft,disagree,UNCLEAR,0.9769,PRO,0.8248,comment_text,False,1,0.0109,0.0123,0.9769,1.0238,,,,,2026-11-10T05:00Z,Stop the facilitation of the destruction of our great nation.,,0.8248,0.1116,0.0636
+ICEB-2026-0100-2174,REVIEW,soft,disagree,UNCLEAR,0.974,CON,0.4716,comment_text,False,1,0.0,0.026,0.974,1.0268,,,,,2026-10-14T04:00Z,"Comment ID
+ICEB-2026-0100-0007
+
+Tracking Number
+muz-jit9-d65t
+
+This comment is untrue. It says OPT is illegal. ",,0.1052,0.4716,0.4232
+ICEB-2026-0100-7359,REVIEW,soft,disagree,UNCLEAR,0.9466,CON,0.9371,comment_text,False,1,0.0,0.0534,0.9466,1.0565,,,,,2026-11-09T05:00Z,"International students shape the experience of college for both other international students and U.S. students: higher education is a place for young, brilliant minds to explore all the different facets of the world under the realm of academia, skills, hobbies, and, most importantly, society. This is impossible without the diverse perspectives my international students bring, as they share their beliefs, talents, cultures, and ideas with their peers and inspire others. I, for one, pursue an undergraduate degree because I want to further pursue my education, but I'm a firm believer that I'm enlightening myself in many other realms of the world by doing so too, and I can easily say my international friends have been among the people who have contributed most to my development.",,0.025,0.9371,0.038
+ICEB-2026-0100-0585,REVIEW,soft,disagree,UNCLEAR,0.932,PRO,0.7076,comment_text,False,1,0.0361,0.0319,0.932,0.9471,,,,,2026-10-08T04:00Z,NO FEDERAL TAXPAYER MONEY TO ILLEGAL ALIENS!,,0.7076,0.1085,0.1839
+ICEB-2026-0100-3199,REVIEW,soft,disagree,UNCLEAR,0.9149,CON,0.3859,comment_text,False,1,0.0,0.0851,0.9149,0.9648,,,,,2026-10-21T04:00Z,"People are saying like below - 
+
+This OPT fees is just a midterm game. MAGA is done and deserted. It was never about America First , it was all about cheating. Only thing will survive is America First. All those cheats in white house deserve to be in jail for rest of their life. They back stab twice. 
+
+Many fake MAGA cheats know that midterm is gone for White house Cheats so now saying, Trump never said he will end H1b where some one shared his rally speech where he confirmed that he will end h1b on day one. Lol Lol..Liar liar pants on fire.
+
+
+What idiot MAGA says, 100k fees stuck down by court TRUMP can't do anything. Next line someone ask,
+1. If 103k fees proposed as cost recovery for h1b/l1/TN visa folks, why it was not added to first reconciliation bill which will approved by party line without 60 votes in senate as its just a cost recovery measure nothing to  do with immigration at all.
+2. Why OPT fees not published on day one OR added to first reconciliation bill as that rule is proposed as cost and tax benefits only.
+3. Who is stopping GOP to raise h1b wages on day one as Tesla guy agreed 2 years ago to double wages and add yearly visa maintenance fees. 
+
+Reality is, GOP internal polling showed its big loss and that's why these so many h1b 60 days grace period, 103k fees, h1b extension deference , OPT fees etc. published to federal register as carrot only in last month or so knowingly it will take years to materialize but want to steal vote based on fake marketing and then flipped after election, not any more cheats. Trump cut deal with beloved Dems so he is acting like Traitor. He just hurt weak people but can't do anything to powerful Big tech who planned to jail him for rest of his life which will happen any way now.  People are saying that these Indian consulting firms ban on PERM and so many settlement with pennies is just a big game to save them from future court induced heavy fines. Correct?
+
+Why Dems are not asked by single reporter that what is their policy on h1b/opt/cpt/L1/TN/J1 etc..? 
+
+what a shame.
+
+ ",,0.2652,0.3859,0.3489
+ICEB-2026-0100-0867,REVIEW,soft,disagree,CON,0.9148,UNCLEAR,0.6782,comment_text,False,1,0.0,0.9148,0.0852,0.9647,,,,,2026-10-09T04:00Z,"**DHS Docket No. ICEB-2026-0100**
+
+**Re: Factual Inconsistency in Footnote 56 of the Proposed Rule**
+
+I wish to draw DHS's attention to a specific factual inconsistency in the proposed rule, *Optional Practical Training Fees* (91 FR 64566).
+
+In Section IV.A, DHS states that an investigation identified ""more than 10,000 F-1 nonimmigrant students"" engaged in OPT and working for highly suspect employers. However, footnote 56 describes the investigation as having revealed ""10,000 highly suspected employers.""
+
+These statements refer to fundamentally different statistical populations. The number of students associated with suspect employers cannot be treated as the number of suspect employers. Both statements cite material concerning the May 12, 2026 ICE investigation.
+
+I respectfully request that DHS:
+
+1. Verify and correct the inconsistent figures in the proposed rule.
+2. Clarify the actual number of students and distinct employers involved in the investigation.
+3. Distinguish suspected misconduct from substantiated violations.
+4. Explain how the verified findings support the necessity and proportionality of the proposed OPT fees.
+
+Accurate evidence is essential to evaluating a regulation with potentially substantial consequences for educational institutions, international students, and American workers. Even if the inconsistency is merely a drafting error, it should be corrected before the agency relies on these figures in its final analysis.
+
+Source: *Optional Practical Training Fees*, 91 FR 64566 (October 8, 2026), Section IV.A and footnote 56.",,0.1033,0.2186,0.6782
+ICEB-2026-0100-0688,REVIEW,soft,disagree,UNCLEAR,0.8933,CON,0.9809,comment_text,False,1,0.0,0.1067,0.8933,0.9882,,,,,2026-10-08T04:00Z,"What exactly does JD Vance do besides punching down at legal visa holders who contribute real economic value to this country but lack the political power to defend themselves?
+
+Perhaps he should spend less time attacking people who came here legally to study, work, and contribute, and more time reflecting on the physical toll of repeated pregnancies and childbirth on women—including his own wife.
+
+It’s remarkably easy to preach about family values and demand more babies when you’re not the one whose body pays the price.
+
+And before anyone pulls out the tired “childless cat lady” insult: I have children, and I love cats. Thank you very much.",,0.018,0.9809,0.0012
+ICEB-2026-0100-5876,REVIEW,soft,disagree,UNCLEAR,0.867,CON,0.8961,comment_text,False,1,0.0,0.133,0.867,1.0179,,,,,2026-11-04T05:00Z,"Ambiguity surrounding the subsequent $30,000 fee further illustrates the proposal's deficiencies.
+A. DHS must clarify whether the $30,000 OPT fee applies only to the first subsequent OPT recommendation or to every subsequent recommendation.
+Under the proposal, the initial $70,000 fee would be triggered by the first OPT recommendation for a particular student by a DSO at a particular SEVP-certified school following the final rule's effective date. See proposed 8 CFR 214.13(i)(1).
+Proposed 8 CFR 214.13(i)(2) then provides that a school that has paid the initial $70,000 fee for a particular student must pay $30,000 before ""a subsequent recommendation"" for that student for whom it has already paid the initial $70,000 fee.
+But proposed 8 CFR 214.12(i)(3) then says that “any subsequent DSO recommendations for OPT issued for any F-1 student who has previously participated in OPT, and for which the $70,000 OPT fee has been paid, will be subject to the subsequent OPT fee of $30,000 per alien.”
+Using the singular “a subsequent recommendation” and the plural “any subsequent DSO recommendations” in the same paragraph (i) creates ambiguity and uncertainty as to whether DHS intends a single $30,000 payment for the first subsequent OPT recommendation or $30,000 payments for each subsequent recommendation.
+Two interpretations are possible.
+Under the first interpretation, a particular school would pay $70,000 for the student's initial OPT recommendation and $30,000 for the first subsequent recommendation, with no further fee for additional OPT recommendations for that student at that school. Total liability would be limited to $100,000. This interpretation appears consistent with a notice distributed on October 8, 2026 by SEVP to DSOs, which describes a $70,000 initial charge and a $30,000 charge for the “second year” of practicaltraining, with no additional fees in subsequent years. DHS also uses a $100,000 total in portions of its economic analysis included in the proposed rule.
+Under the second interpretation, the school would pay $70,000 for the initial recommendation and an additional $30,000 each time it subsequently recommends OPT for the same student. Total liability could therefore exceed $100,000. Statements in the proposed rule preamble support this second interpretation. The preamble summary describes the subsequent fee as applicable to ""any subsequent OPT."" Elsewhere in the preamble DHS expressly describes the proposed charge as applying ""each time there is a subsequent OPT recommendation for that student."" These statements are difficult to reconcile with a single second-payment interpretation.
+The distinction is illustrated by the following examples.
+Example. Consider a Master of Engineering student who seeks three months of pre-completion OPT for a summer internship, followed by nine months of post-completion OPT and a subsequent 24-month STEM OPT extension.
+•
+This student's school would first pay $70,000 before recommending the pre-completion OPT. It would then pay $30,000 before recommending post-completion OPT.
+•
+If DHS intends a maximum of one subsequent fee, the school would owe no additional amount when recommending the STEM extension, and total liability would be $100,000.
+•
+If DHS intends to assess the fee for each subsequent recommendation, the STEM extension would trigger another $30,000 payment, bringing total liability to $130,000.
+Example. The same ambiguity could also affect students pursuing post-completion OPT following successively higher degrees at the same school, for example, a student who obtains a bachelor’s degree, then a master’s degree, and then a doctoral degree at the same school, each followed by a period of post-completion OPT permitted.
+•
+Under the first interpretation ($100,000 limit), the school would have to pay a total of $100,000 for the three OPT recommendations ($70,000 for the first, $30,000 for the second, and $0 for the third).
+•
+Under the second interpretation, though, the school would have to pay a total of $130,000 ($70,000 for the first, $30,000 for the second, and $30,000 for the third).
+DHS must clarify this in any final regulatory wording.
+",,0.0446,0.8961,0.0593
+ICEB-2026-0100-7941,REVIEW,soft,disagree,CON,0.8519,UNCLEAR,0.6115,comment_text,False,1,0.0,0.8519,0.1481,1.0359,,,,,2026-11-09T05:00Z,"The economic effects of OPT policy may extend beyond participating students and employers. Universities, local housing markets, retail businesses, and surrounding communities may be affected by changes in international enrollment and graduate employment. I request that DHS examine these indirect economic consequences, particularly in communities where universities are major employers and economic contributors.",,0.0639,0.3246,0.6115
+ICEB-2026-0100-0648,REVIEW,soft,disagree,CON,0.8517,UNCLEAR,0.6301,comment_text,False,1,0.0001,0.8517,0.1482,1.0362,,,,,2026-10-08T04:00Z,"The proposal emphasizes protecting American workers, but I request more direct evidence on how the proposed fees would affect domestic employment and wages. A decline in OPT participation does not automatically establish an equivalent increase in employment for U.S. workers. Employers may adjust hiring, reduce positions, relocate activities, or substitute labor differently across occupations. I recommend that DHS provide occupation-specific evidence of displacement and analyze both substitution and complementary employment effects, rather than treating reduced OPT participation as sufficient evidence of improved labor-market outcomes.",,0.0746,0.2952,0.6301
+ICEB-2026-0100-6764,REVIEW,soft,disagree,UNCLEAR,0.8022,PRO,0.581,comment_text,False,1,0.1789,0.0189,0.8022,0.9712,,,,,2026-11-06T05:00Z,"Secure the border, permanently. Americans first",,0.581,0.0137,0.4053
+ICEB-2026-0100-7899,REVIEW,soft,disagree,UNCLEAR,0.7868,PRO,0.7228,comment_text,False,1,0.1988,0.0144,0.7868,0.9903,,,,,2026-11-09T05:00Z,"I am deeply concerned about the growing dependence of major U.S. technology companies, including Microsoft and Google, on the H-1B visa program.
+
+When major American technology companies employ large numbers of H-1B workers, particularly when their workforce becomes heavily concentrated in particular foreign-nationality groups, an important question must be asked: What meaningful employment opportunities are being left for American citizens?
+
+The United States has invested generations of resources in building its education system, universities, research institutions, infrastructure, and technology industry. American taxpayers help support this foundation. American students spend years studying engineering, computer science, and other technical disciplines, often taking on substantial student debt, with the expectation that they will have a fair opportunity to pursue careers in their own country.
+
+Yet American graduates and experienced professionals increasingly face intense competition for technical positions at major U.S. companies. It is reasonable to question whether employers are making a genuine effort to recruit, train, and retain American workers before relying on foreign labor.
+
+I recognize that immigration and international talent have contributed to America's economic and technological development. Qualified foreign professionals can bring valuable skills. However, the H-1B program was intended to address genuine labor shortages, not to provide companies with an alternative workforce strategy that disadvantages American workers or suppresses wages.
+
+I urge the government to consider the following reforms:
+
+Prioritize American workers: Require employers to demonstrate meaningful recruitment efforts and explain why qualified American applicants were not selected before sponsoring H-1B workers.
+
+Increase transparency: Require large technology companies to disclose their H-1B workforce numbers, job categories, salary levels, and the proportion of their workforce represented by visa holders.
+
+Prevent workforce displacement: Strengthen protections against replacing American employees with lower-cost foreign workers, including through outsourcing arrangements and subcontractors.
+
+Enforce fair wages: Ensure that H-1B employees are paid competitive wages and that the program cannot be used to undercut compensation for American workers.
+
+Encourage investment in American talent: Require companies that rely heavily on H-1B workers to demonstrate meaningful investment in training, internships, apprenticeships, and career development for U.S. citizens.
+
+Review excessive concentration: Examine whether a small number of employers or recruitment networks are using the program in ways that limit fair access to employment opportunities and create unfair advantages in hiring.
+
+American citizens should not have to wonder whether they have become second priority in their own country's technology industry. U.S. companies benefit from America's education system, infrastructure, legal protections, and economic environment. They should also have a responsibility to invest in the American workforce.
+
+The purpose of the H-1B program should be to fill genuine skill shortages, not to replace the responsibility of American companies to develop and employ American talent.
+
+I respectfully urge the government to strengthen oversight of the H-1B program and ensure that American workers receive fair consideration, fair compensation, and genuine employment opportunities.",,0.7228,0.1108,0.1663
+ICEB-2026-0100-8342,REVIEW,soft,disagree,UNCLEAR,0.7773,CON,0.9867,comment_text,False,1,0.0,0.2227,0.7773,1.002,,,,,2026-11-10T05:00Z,"94. Students already enrolled in degree programs should receive clear information about how new requirements may affect them.
+95. Regulations should be implemented consistently across employers and educational institutions.
+96. I encourage DHS to focus on measurable compliance standards and genuine employment verification.
+97. A reasonable transition period can help universities, employers, and students adapt to regulatory changes.
+98. Clear communication will help prevent confusion and unintended consequences.
+99. I support policies that discourage fraudulent practices while protecting legitimate graduates.
+100. My overall position is that OPT should remain a meaningful practical training pathway, supported by strong verification, employer accountability, and fair enforcement.",,0.0085,0.9867,0.0047
+ICEB-2026-0100-8607,REVIEW,soft,disagree,UNCLEAR,0.7773,CON,0.5131,comment_text,False,1,0.0,0.2227,0.7773,1.002,,,,,2026-11-10T05:00Z,"I strongly oppose the proposed elimination of the 60-day grace period for employment-based nonimmigrant workers.
+
+The existing grace period provides an essential safeguard for skilled professionals who lose their jobs due to layoffs, corporate restructuring, or other circumstances beyond their control. Eliminating this protection would create unnecessary hardship and uncertainty for workers who have complied with U.S. immigration laws.
+
+Finding new employment and completing the immigration transfer process requires time. Even when an employer is ready to hire, immigration filings involve legal preparation, administrative procedures, and coordination among multiple parties. Removing the grace period would make it significantly harder for qualified workers to transition between employers through no fault of their own.
+
+This proposal would also negatively affect U.S. businesses by reducing their ability to recruit experienced international talent already residing in the country. It could discourage skilled professionals from pursuing long-term careers in the United States, weakening the nation’s global competitiveness.
+
+The current 60-day grace period is a reasonable and limited protection, not an indefinite extension of immigration status. It recognizes the practical realities of employment transitions while maintaining immigration compliance.
+
+I respectfully urge DHS to withdraw this proposal and preserve the existing 60-day grace period. Immigration policy should promote fairness, economic stability, and the retention of skilled talent rather than impose disproportionate consequences on workers facing unexpected job loss.
+
+Thank you for considering this comment.",,0.0289,0.5131,0.458
+ICEB-2026-0100-0427,REVIEW,soft,disagree,UNCLEAR,0.7549,PRO,0.8672,comment_text,False,1,0.0,0.245,0.7549,1.0319,,,,,2026-10-08T04:00Z,"What people on ground saying -
+
+This rule is nothing but a Halloween candy like many others given by current administration. lets take few examples out of today's task force meeting.
+
+What task force did today, just paused PERM process for only very few players which is last step in process but did nothing to fix main issue. This is like, if house only needs 10 good apples every year, filled with 10000 bad apples at first place knowing that its life long stock already. Now saying with loudest voice, We will not let any new apple inside home. people know trick here and laughing like anything. People are asking what about all those bad apples which is already inside and its life long stock not 1 or 2 years. Some of those apples can even produce more while they are inside. So basically fixing last stage of process is good for nothing. 
+
+what you expect from fraudsters who did this game knowingly but now losing big so pretending that they are innocent. lol lol.
+
+",,0.8672,0.0807,0.0521
+ICEB-2026-0100-1255,REVIEW,soft,disagree,UNCLEAR,0.6393,PRO,0.7632,comment_text,False,1,0.2349,0.1257,0.6393,0.9498,,,,,2026-10-11T04:00Z,These regulations are so important to protect our educational institutions and promote education among Americans ,,0.7632,0.0804,0.1564
+ICEB-2026-0100-8952,REVIEW,soft,disagree,PRO,0.6351,UNCLEAR,0.8837,comment_text,False,1,0.6351,0.0246,0.3403,0.955,,,,,2026-11-12T05:00Z,"Two things I’ll be straight with you about. I took out the part that pins it on Indian students specifically, because as written it reads as a claim about a nationality rather than about an industry practice, and that’s the part that gets a post dismissed instead of taken seriously. The part that’s actually documented — and that people have gone after in court and in congressional testimony — is the staffing-agency layer itself: bench marketing, fake resumes, candidate-sharing rings, kickbacks to managers, and preferential visa pipelines that effectively close a req before it’s ever competitive. That’s a real thing, and you can say it hard without making it about who someone is",,0.0929,0.0235,0.8837
+ICEB-2026-0100-7935,REVIEW,soft,disagree,CON,0.6217,UNCLEAR,0.841,comment+attachment,True,266,0.0,0.6217,0.3783,0.9756,,,,,2026-11-09T05:00Z,See attached file(s),12483.0,0.0135,0.1454,0.841
+ICEB-2026-0100-1862,REVIEW,soft,disagree,PRO,0.607,UNCLEAR,0.8743,comment_text,False,1,0.607,0.1055,0.2875,0.9991,,,,,2026-10-13T04:00Z,"What people on ground saying -
+
+
+People are laughing and saying like this rule is not going to implement until year or two. This will have no impact by then. This is just a midterm strategy only.
+
+
+All over internet people conducted few polls before and after JD lead task force conference with not so much surprise in results. lets take few polls
+
+Before JD task force conference 
+GOP chances to win midterm - 0 pct.
+JD will be candidate for GOP in 2028 - 60 pct.
+
+After JD task force Conference
+GOP chances to win midterm - (-30) pct. - Seriously , negative 30 pct. ..lol lol
+JD will be candidate for GOP in 2028 - 0 pct. - Seriously, zero pct...lol lol
+
+
+People are saying its nothing to do with fraud but in reality they are saying JD and his ladies gang willfully mislead people to plan for 2028. what a shame.
+
+JD and ladies knew that PERM LCA holt for only 8 companies will not solve anything. Those Indian consulting firms already stopped filling PERM LCA. They have no interest than shipping jobs offshore and improve underlying profit same like any other US based company. Amazon / Deloitte/ KPMG/EY/Dell/Oracle/SAP/Google/Apple and few 20 odd US based consulting firms are filing 95pct PERMS and trading those folks for 20 to 30 years and collecting big from middle. Biggest problem is H1b LCA which can be revoked and paused by Keith in a minute as he has all the authority. He does not need any new law or new rule. All he has to say, H1b negatively impacting US citizens wage and working condition, Which is long known. JD and many GOP cheats , time to time give example of IT professional who shot himself in parking lot after laid off and forced to train his replacement h1b. What else Keith need beside this subside. IT wages are well below 1990 level compare to cheat senators. Entire Middleclass is not able to own house. 90 pct. unemployment among youth who graduated from STEM field. What more proof needed that H1b is not negatively impacting wages and working condition. 
+
+Entire task force conference was on h1b abuse but when action was announced, it was on PERM which does not impact those 7 Indian consulting firms at all. 
+
+Microsoft became laughing stock in last few days as they are saying those 6300 were h1b extensions not new PERM. Lol lol. people ask simple question like those 6300 extension was happening because they fake way used h1b at first place. There is no law which give them authority to lay off US citizens over h1b even for h1b extension too. lol lol.
+
+So many PERM approved folks who already have I-140 approved and working at Gas stations, schools , land scaping ,hotels , motels , sales agents ,retail , taxi drivers etc.. how on earth those 5 million plus who are inline for Green card using cheat way will be impacted by this so called press conference biggest announcement. lol lol... US people are not stupid to know that TCS filed only 1 PERM LAC in last 2 years and all 7 combined files 400 in total where 5 millions pending Green card with I-140 by so many other cheats who supplied some of those folks to those 7 consulting firms too. lol lol..
+
+Keith has single handedly hurt USA more than any fake office holder of federal government.  Every one know who is behind weakening Independent contractor and joint employer rules. Those two rules are behind all games in h1b and temp work visa cheating. Now who hurt USA most is rewarded at highest position in DOL. what a shame. Keith must go today itself. MAGA fools not even know what happened to them. lol lol.
+
+what a shame.
+
+
+
+
+",,0.0629,0.0629,0.8743
+ICEB-2026-0100-0056,REVIEW,soft,disagree,PRO,0.5851,UNCLEAR,0.7506,comment_text,False,1,0.5851,0.0121,0.4028,1.0367,,,,,2026-10-08T04:00Z,"I am a water systems operator for a small municipality in South Carolina. We have had at least five operators that came from local manufacturing facilities due to their closing and moving to Mexico or China. One operator even went to Mexico to train his foreign replacement. The plants were Delta, Weller, Stanley Tools, Gailey & Lord. And that's just in this one SC town. Bring our manufacturing and jobs back to us and the USA. ",,0.1882,0.0611,0.7506
+ICEB-2026-0100-1286,REVIEW,soft,disagree,CON,0.5621,UNCLEAR,0.6861,comment_text,False,1,0.0,0.5621,0.4379,0.9523,,,,,2026-10-13T04:00Z,"ICAway respectfully submits this comment regarding the information-collection burden associated with the proposed Optional Practical Training (OPT) fees.
+
+ICAway is a human-centered, cross-cultural advisory organization that supports international students in navigating U.S. career pathways and preparing for professional opportunities. We recognize the importance of accurate records, effective program administration, and immigration compliance. We encourage ICE to ensure that its estimates of the administrative burden associated with the proposed rule are transparent, accurate, and comprehensive.
+
+1. Validate the estimated time required for payment confirmation.
+
+The supporting statement estimates that 226,200 OPT fee-payment confirmations will require five minutes each, resulting in 18,850 annual burden hours and approximately $945,138 in labor costs.
+
+ICE should explain the basis for the five-minute estimate and clarify whether it accounts for the full process, including payment verification, data entry, reconciliation of discrepancies, and correction of errors where applicable. If the estimate represents only routine transactions, the agency should separately consider the time required for exceptions and other nonroutine cases.
+
+2. Reconcile discrepancies in the supporting statement.
+
+The document refers to 226,000 fee payments in its narrative but uses 226,200 in its detailed burden calculations. It also uses an hourly rate of $50.14 in the OPT fee-confirmation table, while most other calculations use $50.04.
+
+ICE should reconcile these figures and explain any differences before finalizing the information collection estimates. Transparent and internally consistent calculations are essential for assessing the actual burden on respondents.
+
+3. Account for implementation and exception-related burdens.
+
+The supporting statement should clarify whether the burden estimate includes any additional procedures schools may need to establish for payment confirmation, staff training, record reconciliation, delayed payments, unsuccessful transactions, and correction of inaccurate records.
+
+If these activities are not included, ICE should explain why they are unnecessary or provide supplemental estimates where appropriate. The agency should also clarify whether the proposed process requires any system modifications or additional institutional resources beyond use of the existing SEVIS field.
+
+4. Assess the burden across institutions of different sizes.
+
+Schools differ in enrollment, staffing, administrative capacity, and the volume of students seeking OPT and STEM OPT. ICE should assess whether the proposed reporting process could impose disproportionate operational burdens on institutions with limited staffing or resources.
+
+Where feasible, the agency should consider ways to simplify payment verification, minimize duplicate data entry, and use existing electronic systems to reduce the time and expense required of designated school officials.
+
+5. Recommendations
+
+ICAway respectfully requests that ICE:
+
+Validate and document the assumptions underlying the five-minute payment-confirmation estimate.
+
+Reconcile the numerical and hourly-rate discrepancies in the supporting statement.
+
+Clarify whether implementation, exception handling, training, and error correction are included in the estimated burden.
+
+Assess potential differences in administrative burden across institutions of different sizes.
+
+Identify practical opportunities to simplify reporting and minimize unnecessary administrative work.
+
+Accurate information-collection estimates support sound rulemaking. ICE should ensure that the projected burden reflects the actual work required of schools and designated school officials to implement the proposed process.",,0.1185,0.1954,0.6861
+ICEB-2026-0100-1057,REVIEW,soft,disagree,CON,0.562,UNCLEAR,0.7541,comment_text,False,1,0.0,0.562,0.438,0.9524,,,,,2026-10-09T04:00Z,"People are laughing and saying same thing like below -
+
+This rule is not gona change anything. It will hurt to genuine professors at collages more than anything.
+
+India's commerce minister just departed USA and next day JD and ladies did press  conference. This is not co incident as same minister went online and vomiting everywhere. JD and his ladies sold out MAGA and hard working US citizens. In process they throw genuine h1bs under train. 
+
+ https://economictimes.indiatimes.com/tech/startups/not-getting-h1b-visas-good-for-india-fireside-chat-with-piyush-goyal-et-startup-awards-2026/videoshow/134838264.cms?from=mdr
+
+According to people, India wants more and more GCCs there not h1bs on US soil. MAGA/GOP/LEFT/RIGHT don't understand what JD did. He made all hard working US citizens slave of Indian abusive managers. JD and ladies bashed those 6 or 7 Indian companies but reality is , he wants them to help his political donors. Those companies has no interest in any employee development. India produce 2.5 million net new IT professionals every year. They care about revenue generated from Political donors only. JD and ladies bashed those companies on H1b for almost entire duration of press conference but at the end when its time to announce punishment, what they announced, just pause on LCA which r used for PERM only. It has nothing to do with h1b as those two are totally separate process. Indian minister and many others already confirmed that. basically JD fooled MAGA and sold them out. All those cheats will now happily report to offshore managers who don't even care about their Prom or dating culture. Its reality that no one wants to Data MAGA folks and that is why more and more MAGA getting married to Latinas and Asians came to USA on h1b or some sort of temp visa. Lol lol...U don't believe, ask president/vice president/Gill/Marino/Mitch and many many many more in congress regarding whom they married and whom their kids are dating or married. In reality who claim themselves as MAGA , 90 pct. those cheats have partner who is Asian or Latina. lol lol..
+
+Everyone knows, JD and his ladies just hurt USA for longer run. Those 7 companies must be forced to file PERM or bring all jobs back to USA not other way around. JD and his ladies must be charged with espionage as they spy on US citizens, manage SSN number of US citizens who r naturalized so they make sure they use those 6 or 8 companies to hurt those folks. JD is not saying in Air that 1million jobs created for US born folks only because every job you apply, goes to JD's minions offshore for approval. If you are on that database which they maintain, you will be rejected. MAGA is cooked by Traitor. Everyone knows who that Traitor is as midterm is coming closer and closer. When candidates for 2028 declared, both the side of Aisle, it will be even more clearer that who was Traitor.
+
+MAGA and progressive both have same philosophy but they both are cheated and rolled over. lol lol. US people now have no choice then to support those big Indian consulting firms and use them against these cheat DC swamp who sold them out for their own benefit.
+
+what a shame.
+
+
+",,0.0789,0.167,0.7541
+ICEB-2026-0100-6310,REVIEW,soft,disagree,CON,0.531,UNCLEAR,0.9262,comment_text,False,1,0.0,0.531,0.469,1.008,,,,,2026-11-06T05:00Z,"I respectfully request that DHS reconsider the proposal to eliminate the discretionary 60-day grace period under 8 CFR 214.1(l)(2), or at minimum consider reasonable transition safeguards and less disruptive alternatives.
+
+The current regulation provides eligible workers in certain nonimmigrant classifications, including H-1B, L-1, O-1, and TN, and their dependents with a limited transition period of up to 60 days following the cessation of employment. Although this period is discretionary and does not guarantee new employment authorization, it provides valuable time for affected individuals to seek new employment, prepare a change-of-status or extension application, or make appropriate departure arrangements.
+
+Employment termination is often sudden and beyond an employee's control. Eliminating this transition period could create serious difficulties for workers and their families. Spouses and children may face unexpected disruptions to their education, housing, healthcare, and daily lives. Employers may also lose experienced employees who could otherwise transition to new qualifying employment through the appropriate immigration procedures.
+
+DHS's own proposal acknowledges that workers and their dependents may have made career, family, and community plans in reliance on the existing policy. The agency also recognizes that eliminating the grace period could accelerate departures from the United States.
+
+I encourage DHS to conduct a more comprehensive assessment of these practical consequences and consider the following alternatives:
+
+Retain the existing discretionary grace period with clearer and more consistent eligibility guidelines.
+
+Consider a shorter but reasonable transition period rather than eliminating it entirely.
+
+Provide appropriate safeguards for individuals with pending or imminent employment-based petitions or change-of-status applications.
+
+Establish reasonable transition arrangements for affected families and dependents.
+
+The immigration system should maintain its integrity while also recognizing the legitimate circumstances of workers who lose employment through no fault of their own.
+
+Thank you for considering these concerns.",,0.0217,0.0521,0.9262
+ICEB-2026-0100-0088,REVIEW,soft,disagree,UNCLEAR,0.4865,PRO,0.8514,comment_text,False,1,0.4861,0.0274,0.4865,0.9718,,,,,2026-10-08T04:00Z,My husband was a high tech worker with Sun Microsystems. He was laid off when his unit was closed and reopened at a different location with cheap foreign labor. We lost our health insurance. He was forced to take a much lower paying job and it disrupted our retirement plans. ,,0.8514,0.1306,0.018
+ICEB-2026-0100-0504,REVIEW,soft,disagree,UNCLEAR,0.4687,CON,0.4604,comment_text,False,1,0.413,0.1183,0.4687,1.0094,,,,,2026-10-08T04:00Z,"People are laughing and saying below -
+
+This OPT fee rule is nothing more than Halloween candy like many other temporary rules.
+
+JD,
+Master of gas lighting, why people calling u couch fliker?
+
+Basically today's taskforce meeting is just a big mouth lie after lie. They just put PERM on hold for 6 or 7 companies knowing it will have no impact ( yes absolutely no impact at all in near term) to those companies at all.
+
+All those folks who are having pending PERM or in future PERM will be filed, technically has 180 days ( B2 Visa transfer) , 60 days grace period , plus 240 days if they file h1b be transfer to even small consulting firm or subsidiary of those hold ones. lol lol. Funny thing, this 240 days is even if you don't have job and they can start working that long with just receipt which is proof that they file transfer, not approved. lol lol.. If they use small consulting firm with fake jobs during this period again, clock restart and they have 480 days cycle again. They have unlimited cycles of 480 days to use again and again while on US soil. They chose to change status to other visa type like F1 or TN or L1 or CPT etc..to gain even more time without leaving USA. lol lol. 
+
+This is exact reason why those h1b and its side products population will never shirk on US soil. Its all legal, built and designed by JD type folks only. 
+
+By the time these folks reach to first or second cycle of 480 days ( 1.5 years), JD will no longer in DC and so does his task force. Many in DC knows this and designing all temporary solutions before midterm to fool people around. People think Miller is genius fool and his genius wife busy collecting fat chq from richest h1b in US history. JD is busy producing babies from genius h1b inherited wife. correct ? lol lol. 
+
+It is not co incident that Current administration choses 1.5 years long rule making process for almost everything. They don't want to fix anything using this long process. Other important aspect of this rules are, its temporary in nature only. None of those rules ( almost all are in rule making process only) even if they become active, can not removed on first hour by next president. This is real game. All temp work to benefit few political donors only.
+
+
+They can easily fix recruiting cheating, data privacy issue, closing fraudulent LLCs by temp work visa folks , increase wage level and eliminate first two levels , Make site visit mandatory for each and every h1b ( not just PERM) to validate their work while on h1b and before extension granted etc.. These few steps will eliminate 99 pct. fraud in first 6 months. Why not do those rather than wasting time in long press conference just before few weeks of midterm which is predicted that GOP is losing badly.
+
+what a shame.
+
+
+",,0.3163,0.4604,0.2234

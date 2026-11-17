@@ -1,0 +1,118 @@
+8953 submissions, 8142 unique texts, 8142 to classify with qwen/qwen3.6-35b-a3b
+100/8142  2.23/s  eta 60.1 min
+200/8142  2.19/s  eta 60.3 min
+300/8142  2.15/s  eta 60.7 min
+400/8142  2.09/s  eta 61.9 min
+500/8142  2.06/s  eta 62.0 min
+600/8142  2.05/s  eta 61.2 min
+700/8142  2.05/s  eta 60.6 min
+800/8142  2.05/s  eta 59.8 min
+900/8142  2.04/s  eta 59.3 min
+1000/8142  2.02/s  eta 59.0 min
+1100/8142  2.01/s  eta 58.3 min
+1200/8142  2.02/s  eta 57.2 min
+1300/8142  2.01/s  eta 56.8 min
+1400/8142  2.01/s  eta 56.0 min
+1500/8142  2.00/s  eta 55.3 min
+1600/8142  2.00/s  eta 54.6 min
+1700/8142  2.01/s  eta 53.5 min
+1800/8142  2.00/s  eta 52.9 min
+1900/8142  1.99/s  eta 52.2 min
+8953 submissions, 8142 unique texts, 6214 to classify with qwen/qwen3.6-35b-a3b
+100/6214  2.57/s  eta 39.7 min
+200/6214  2.45/s  eta 40.9 min
+300/6214  2.37/s  eta 41.6 min
+400/6214  2.35/s  eta 41.3 min
+500/6214  2.34/s  eta 40.6 min
+600/6214  2.35/s  eta 39.9 min
+700/6214  2.35/s  eta 39.0 min
+800/6214  2.38/s  eta 38.0 min
+900/6214  2.43/s  eta 36.4 min
+1000/6214  2.49/s  eta 34.8 min
+1100/6214  2.50/s  eta 34.0 min
+1200/6214  2.53/s  eta 33.0 min
+1300/6214  2.51/s  eta 32.7 min
+1400/6214  2.46/s  eta 32.6 min
+1500/6214  2.46/s  eta 31.9 min
+1600/6214  2.44/s  eta 31.5 min
+1700/6214  2.42/s  eta 31.1 min
+1800/6214  2.39/s  eta 30.7 min
+1900/6214  2.41/s  eta 29.8 min
+2000/6214  2.42/s  eta 29.0 min
+2100/6214  2.42/s  eta 28.4 min
+2200/6214  2.42/s  eta 27.7 min
+2300/6214  2.39/s  eta 27.3 min
+2400/6214  2.37/s  eta 26.9 min
+2500/6214  2.36/s  eta 26.2 min
+2600/6214  2.36/s  eta 25.5 min
+2700/6214  2.35/s  eta 25.0 min
+2800/6214  2.33/s  eta 24.4 min
+2900/6214  2.32/s  eta 23.8 min
+3000/6214  2.32/s  eta 23.1 min
+3100/6214  2.31/s  eta 22.4 min
+3200/6214  2.32/s  eta 21.7 min
+3300/6214  2.31/s  eta 21.1 min
+3400/6214  2.30/s  eta 20.4 min
+3500/6214  2.30/s  eta 19.7 min
+3600/6214  2.29/s  eta 19.0 min
+3700/6214  2.30/s  eta 18.2 min
+3800/6214  2.30/s  eta 17.5 min
+3900/6214  2.29/s  eta 16.8 min
+4000/6214  2.28/s  eta 16.2 min
+4100/6214  2.29/s  eta 15.4 min
+4200/6214  2.28/s  eta 14.7 min
+4300/6214  2.28/s  eta 14.0 min
+4400/6214  2.27/s  eta 13.3 min
+4500/6214  2.26/s  eta 12.6 min
+4600/6214  2.26/s  eta 11.9 min
+4700/6214  2.25/s  eta 11.2 min
+4800/6214  2.24/s  eta 10.5 min
+4900/6214  2.23/s  eta 9.8 min
+5000/6214  2.24/s  eta 9.0 min
+5100/6214  2.23/s  eta 8.3 min
+5200/6214  2.22/s  eta 7.6 min
+5300/6214  2.22/s  eta 6.9 min
+5400/6214  2.21/s  eta 6.1 min
+5500/6214  2.21/s  eta 5.4 min
+5600/6214  2.20/s  eta 4.6 min
+5700/6214  2.19/s  eta 3.9 min
+5800/6214  2.19/s  eta 3.2 min
+5900/6214  2.18/s  eta 2.4 min
+6000/6214  2.18/s  eta 1.6 min
+6100/6214  2.17/s  eta 0.9 min
+6200/6214  2.17/s  eta 0.1 min
+6214/6214  2.17/s  eta 0.0 min
+650 comments with attachments: 615 with text, 0 files missing, 35 no extractable text (images/scans)
+50/615
+100/615
+150/615
+200/615
+250/615
+300/615
+350/615
+400/615
+450/615
+500/615
+550/615
+600/615
+wrote classified_comments_qwen_final.csv
+rows 8953  agreement 0.9936
+qwen      CON  PRO  UNCLEAR   All
+gemma                            
+CON      7915   16        9  7940
+PRO         4  920        5   929
+UNCLEAR    11   12       61    84
+All      7930  948       75  8953
+tier
+high             8762
+agree_low          73
+agree_unclear      61
+soft               37
+flip               20
+Name: count, dtype: int64
+final_stance
+CON        7915
+PRO         920
+UNCLEAR      61
+REVIEW       57
+Name: count, dtype: int64

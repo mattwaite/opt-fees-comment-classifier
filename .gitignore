@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# OS / editor
+.DS_Store
+__MACOSX/
+__pycache__/
+
+# attachment PDFs (343 MB) - re-download with attachment_urls.txt
+attachments/
+attachments.txt
+
+# superseded / intermediate
+Archive.zip
+partial_qwen27b_stopped.csv
+run_qwen27b_stopped.log
+classified_comments.csv
+classified_comments_qwen.csv
+CommentTextScan.Rmd
