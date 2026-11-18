@@ -13,7 +13,7 @@ This repo classifies all 8,953 public comments on the DHS/ICE proposed rule **"O
 | UNCLEAR (both models) | 61 | 0.7% |
 | Models disagree (human review) | 57 | 0.6% |
 
-The two models agree on 99.4% of submissions.
+The two models agree on 99.4% of submissions. In a blind hand check of 194 of the high-confidence submissions, a human reporter agreed with the model label 97.9% of the time. Only one comment (0.5%) was labeled the opposite way.
 
 ## Files
 

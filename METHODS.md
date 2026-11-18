@@ -55,12 +55,25 @@ The models were told to judge the commenter's position on the rule, not their to
 3. **Claude's reading of agreed labels (an AI check, not a human one):** Claude read random samples of 45 short comments both models labeled PRO and 45 both labeled CON, and found no errors. Short comments are where sarcasm and ambiguity are most likely.
 4. **Disagreements:** the 57 disagreements went to the tiebreaker model, and the 20 where one model said PRO and the other said CON were read by Claude. **The main failure is sarcasm.** For example, "this is more communistic than anything we had back home. Good job!" fooled multiple models, and in several flips the two-of-three majority vote was wrong. For that reason, **disagreements are not resolved automatically.** They are in `review_disagreements_tiebreak.csv` with each model's label, the majority vote, Claude's suggested reading (for the 20 flips) and an empty `human_final` column for a reporter to fill in.
 
-5. **Human verification (to do):** `human_check_sample.csv` holds a blind random sample of 100 high-tier PRO and 100 high-tier CON submissions, with the labels hidden. A reporter codes `human_label`, then compares against `human_check_sample_KEY.csv` to get a human-verified error rate. PRO is oversampled relative to its share because it is the smaller count, so each error moves it more.
+5. **Human verification:** a student reporter coded a random sample of 200 high-tier submissions (100 the models labeled PRO, 100 CON) without seeing the model labels, then compared her codes with the answer key. PRO was oversampled relative to its share because it is the smaller count, so each error moves it more. She skipped the 6 attachment rows because she didn't have the files, so 194 were coded. Results (`human_check_completed.csv`, scored by `score_hand_check.py`):
+
+   | | Count | Rate | 95% CI (Wilson) |
+   |---|---|---|---|
+   | Human agrees with model | 190 / 194 | 97.9% | |
+   | Any disagreement | 4 / 194 | 2.1% | 0.8%–5.2% |
+   | Opposite direction (PRO↔CON) | 1 / 194 | 0.5% | 0.1%–2.9% |
+   | Model PRO not confirmed by human | 3 / 100 | 3.0% | 1.0%–8.5% |
+   | Model CON not confirmed by human | 1 / 94 | 1.1% | 0.2%–5.8% |
+
+   - **The one opposite-direction disagreement (ICEB-2026-0100-2322)** is about definitions, not a misread. The commenter is "adamantly OPPOSED to the entire OPT program." The codebook counts wanting OPT ended as PRO, because that commenter supports restricting OPT, which is what the rule does. The reporter coded it CON. It shows that "PRO" needs explaining to readers.
+   - **The other three** are cases where the human saw no clear position on the fees but the models assigned one: two the models called PRO (general anti-foreign-student comments) and one they called CON (opposes the "extremely high fee").
+   - **Blinding:** the reporter didn't have access to the answer key while coding. The key columns and match counts in the exported sheet were added only to compare against the finished codes. `score_hand_check.py` ignores them and recomputes agreement from `human_check_sample_KEY.csv`.
 6. **Off-docket comments:** at least two comments are about eliminating a 60-day grace period for employment-based workers (8 CFR 214.1(l)(2)), which this fee rule doesn't address. They appear to have been filed on the wrong docket. Both are among the disagreements and should be coded UNCLEAR or excluded.
 
 ## Limitations
 
-- Two models can share the same blind spot, sarcasm in particular. Agreement doesn't guarantee a label is correct, but in the samples read by hand, agreed labels were correct.
+- Two models can share the same blind spot, sarcasm in particular. Agreement doesn't guarantee a label is correct. In the human check, 97.9% of agreed high-tier labels were confirmed, and only one went the opposite direction.
+- The human check covers only the high tier, 97.9% of submissions. The 57 disagreements still need human coding, and the 73 `agree_low` rows haven't been checked.
 - "PRO" combines people who support the rule as written with people who want OPT ended entirely. Those are different positions, and the story should describe them that way.
 - Comments counts submissions, not people. One person or organization can submit more than once, and form-letter campaigns produce many identical submissions (see Results).
 - Attachments over about 7,500 characters were classified from their opening and closing sections only.
@@ -73,4 +86,5 @@ The models were told to judge the commenter's position on the rule, not their to
 | `review_disagreements_tiebreak.csv` | The 57 disagreements, with tiebreaker and suggested readings, for human coding |
 | `validation_sample.csv` | The 200-comment pilot check |
 | `human_check_sample.csv` / `human_check_sample_KEY.csv` | Blind 200-row sample for human coding, and its answer key |
+| `human_check_completed.csv` / `score_hand_check.py` | The reporter's completed coding, exported from Google Sheets, and the script that scores it |
 | `classify.py`, `classify_attachments.py`, `compare_models.py`, `tiebreak.py` | Code to reproduce the run |
